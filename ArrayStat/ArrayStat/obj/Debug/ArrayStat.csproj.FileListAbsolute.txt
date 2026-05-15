@@ -1,0 +1,7 @@
+C:\Users\daras\OneDrive\Documents\CODE\ArrayStat\ArrayStat\bin\Debug\ArrayStat.exe.config
+C:\Users\daras\OneDrive\Documents\CODE\ArrayStat\ArrayStat\bin\Debug\ArrayStat.exe
+C:\Users\daras\OneDrive\Documents\CODE\ArrayStat\ArrayStat\bin\Debug\ArrayStat.pdb
+C:\Users\daras\OneDrive\Documents\CODE\ArrayStat\ArrayStat\obj\Debug\ArrayStat.csproj.AssemblyReference.cache
+C:\Users\daras\OneDrive\Documents\CODE\ArrayStat\ArrayStat\obj\Debug\ArrayStat.csproj.CoreCompileInputs.cache
+C:\Users\daras\OneDrive\Documents\CODE\ArrayStat\ArrayStat\obj\Debug\ArrayStat.exe
+C:\Users\daras\OneDrive\Documents\CODE\ArrayStat\ArrayStat\obj\Debug\ArrayStat.pdb
